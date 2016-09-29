@@ -9,8 +9,7 @@
 
 ### Documentation
 
-Visit the [gruntjs.com](http://gruntjs.com/) website for all the things.
-ÇÑ±Û Å×½ºÆ®
+Visit the [gruntjs.com](http://gruntjs.com/) website for all the things. ì±„í¬ì§„
 
 ### Support / Contributing
 Before you make an issue, please read our [Contributing](http://gruntjs.com/contributing) guide.
